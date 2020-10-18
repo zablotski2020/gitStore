@@ -3,4 +3,9 @@
 
 #include <stdio.h>
 
+int class{
+  cout << "Tomato" << endl;
+}
+
+
 #endif /* fileStore_hpp */
